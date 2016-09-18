@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!--este es el original, que está mal: -->
+<ejercicio> Encuentra la solución de la inecuación: 
+			<inecuacion>2*x<37<inecuacion> 
+	</ejercicio> 
+
+<!--	 este está bien
+	<ejercicio> Encuentra la solución de la inecuación: 
+			<inecuacion>2*x&lt; 37</inecuacion>
+	</ejercicio> 
+-->
